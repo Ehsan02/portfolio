@@ -217,22 +217,22 @@ textarea{
 .home .home-content .text-1{
     font-size: 30px;
     font-weight: 500;
-    color: var(--white-color);
+    color: var(--dark-color);
 }
 .home .home-content .text-2{
     font-size: 45px;
     font-weight: 700;
-    color: var(--white-color);
+    color: var(--dark-color);
     margin-left: -3px;
 }
 .home .home-content .text-3{
     font-size: 25px;
-    color: var(--white-color);
+    color: var(--dark-color);
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: var(--white-color);
-    font-weight: 600;
+    color: var(--dark-color);
+    font-weight: 700;
 }
 
 /* ===== ABOUT =====*/

@@ -217,21 +217,21 @@ textarea{
 .home .home-content .text-1{
     font-size: 30px;
     font-weight: 500;
-    color: var(--dark-color);
+    color: black;
 }
 .home .home-content .text-2{
     font-size: 45px;
     font-weight: 700;
-    color: var(--dark-color);
+    color: black;
     margin-left: -3px;
 }
 .home .home-content .text-3{
     font-size: 25px;
-    color: var(--dark-color);
+    color: black;
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: var(--dark-color);
+    color: black;
     font-weight: 700;
 }
 

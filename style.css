@@ -58,7 +58,7 @@ body{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1.5;
 }
 h1,h2,p{
     margin: 0;
@@ -216,7 +216,7 @@ textarea{
 }
 .home .home-content .text-1{
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 600;
     color: black;
 }
 .home .home-content .text-2{
@@ -259,12 +259,9 @@ textarea{
     color: var(--first-color);
     margin-bottom: var(--mb-1);
 }
-.about__text{
-    margin-bottom: var(--mb-4);
-}
 .about__profession{
     display: block;
-    margin-bottom: var(--mb-4);
+    margin-bottom: var(--mb-2);
 }
 .about__social-icon{
     width: max-content;
@@ -275,6 +272,10 @@ textarea{
 .about__social-icon:hover{
     color: var(--first-color);
 }
+.about__text{
+    margin-bottom: var(--mb-3);
+}
+
 /*BUTTONS*/
 .button{
     display: inline-block;
